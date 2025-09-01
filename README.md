@@ -21,7 +21,7 @@ Predict stock price using news headline data
 
 ## 🙋 Contribution
 - Search for appropriate data for experiment
-- Conduct an experiment
+- Conduct an experiment with LSTM
 
 ## References
 [Notion Contents(Korean)](https://capable-witness-974.notion.site/09dcb2d201bc4ab8b6ff999ebdccefb4)
