@@ -4,7 +4,7 @@
 Predict stock price using news headline data
 
 ## 📌 Overview
-- **Objective**: By using news headline data's sentimental analysis, predict nasdaq 100 closing prices after 10 days
+- **Objective**: By using news headline data's sentimental analysis and industry labelling, predict nasdaq 100 closing prices after 10 days
 - **Duration**: 2024.05 ~ 2024.07  
 - **Individaul/Team**: Team 
 
@@ -15,6 +15,7 @@ Predict stock price using news headline data
 
 ## 📊 Key Features
 - **Sentimental analysis**: Using BERT for deriving sentiment score from headline data
+- **Industry Classification**: Using BERT classification for industry labelling
 - **Stock price prediction**: Using LSTM to predict stock price with sentiment score and industry labelling of news headline data
 - **Results/Findings**: We found it is better to use sentiment score and industry labelling together to predict stock price than using only sentiment score. The accuray was about 74.7%
 
